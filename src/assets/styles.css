@@ -1,0 +1,55 @@
+.app {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+}
+
+.app .app__col1 {
+    width: 100px;
+    height: 100%;
+    background-color: sandybrown;
+}
+
+.app .app__col2 {
+    width: 100%;
+    height: 100%;
+    
+    background-color: rgb(82, 44, 11);
+}
+
+.app .app__col1__1 {
+    width: 100%;
+    height: 33.3%;
+    background-color: rgb(128, 92, 61);
+}
+
+.app .app__col1__2 {
+    width: 100%;
+    height: 33.3%;
+    background-color: rgb(95, 73, 54);
+}
+
+.app .app__col1__3 {
+    width: 100%;
+    height: 33.3%;
+    background-color: rgb(63, 54, 45);
+}
+
+.app .app__col2__1 {
+    width: 100%;
+    height: 50%;
+    
+}
+
+.app .app__col2__2 {
+    width: 100%;
+    height: 50%;
+    background-color: rgb(77, 50, 26);
+}
+
+.app .app__col2__2__1 {
+    width: 50%;
+    height: 100%;
+    background-color: rgb(56, 29, 5);
+}
